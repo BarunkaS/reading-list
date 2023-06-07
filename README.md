@@ -22,6 +22,11 @@
 [Tutorial - 7-Steps to ML Pipelines](https://towardsdatascience.com/a-framework-for-building-a-production-ready-feature-engineering-pipeline-f0b29609b20f) <br>
 [Neal Lathia - Building a feature store](http://nlathia.github.io/2020/12/Building-a-feature-store.html) <br>
 
+### Mesh
+[PayPal - Data Mesh Blog](https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522) <br>
+[PayPal - Contracts](https://github.com/paypal/data-contract-template) <br>
+ <br>
+
 ### ML in BigQuery
 [Artile - ML with BQ and dbt](https://showmethedata.blog/agile-machine-learning-with-dbt-and-bigquery-ml) <br>
 [Google Tutorial - ML with BQ](https://cloud.google.com/bigquery/docs/create-machine-learning-model) <br>
